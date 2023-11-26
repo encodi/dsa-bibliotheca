@@ -1,2 +1,4 @@
 # dsa-bibliotheca
-Este repositorio contiene ejemplos y explicaciones de algoritmos y estructuras de datos. Este proyecto está destinado a ser utilizado con fines de aprendizaje e investigación.
+
+This repository contains examples of algorithms and data structures by language.
+This project can be used as a library for research and learning.
